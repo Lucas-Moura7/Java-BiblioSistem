@@ -9,7 +9,7 @@ Realizar o Empréstimo de Livros para Usuários cadastrados
 - Listagem de Cadastros e Empréstimos
 - Cadastro de Usuários
 - Cadastro de Livros
-- Cadastro de Empréstimos
+- Realização de Empréstimos
 - Edição de Itens
 - Exclusão de Itens
 
